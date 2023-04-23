@@ -1,0 +1,774 @@
+user request: file example1.txt at 22:07:23 2023-07-19. 
+ response: cached file example1.txt;
+
+user request: file example1.txt at 22:07:29 2023-07-19. 
+ response: cached file example1.txt;
+
+user request: file example2.txt at 14:26:02 2023-26-20. 
+ response: cached file example2.txt;
+
+user request: file test1.bmp at 14:26:04 2023-26-20. 
+ response: cached file test1.bmp;
+
+user request: file test2.bmp at 14:26:05 2023-26-20. 
+ response: cached file test2.bmp;
+
+user request: file example1.txt at 14:26:07 2023-26-20. 
+ response: cached file example1.txt;
+
+user request: file example2.txt at 14:26:08 2023-26-20. 
+ response: cached file example2.txt;
+
+user request: file test1.bmp at 14:26:10 2023-26-20. 
+ response: cached file test1.bmp;
+
+user request: file test2.bmp at 14:26:11 2023-26-20. 
+ response: cached file test2.bmp;
+
+user request: file example2.txt at 14:30:52 2023-30-20. 
+response: file example2.txt downloaded from the server;
+
+user request: file example1.txt at 12:38:41 2023-38-21. 
+response: file example1.txt downloaded from the server;
+
+user request: file wiki.txt at 14:12:28 2023-12-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 14:13:11 2023-13-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:13:16 2023-13-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:13:27 2023-13-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:13:28 2023-13-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:13:28 2023-13-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:13:28 2023-13-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:13:42 2023-13-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:16:02 2023-16-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 14:16:53 2023-16-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 14:31:16 2023-31-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:32:18 2023-32-21. 
+ response: cached file wiki.txt;
+
+user request: file example2.txt at 14:32:47 2023-32-21. 
+response: file example2.txt downloaded from the server;
+
+user request: file wiki.txt at 14:40:26 2023-40-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:41:01 2023-41-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:43:52 2023-43-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:46:12 2023-46-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 14:54:47 2023-54-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:54:52 2023-54-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 14:58:37 2023-58-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 14:58:52 2023-58-21. 
+ response: cached file wiki.txt;
+
+user request: file wiki.txt at 14:59:03 2023-59-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 15:21:00 2023-21-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 15:21:17 2023-21-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 17:35:13 2023-35-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 17:40:17 2023-40-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 17:44:13 2023-44-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:04:24 2023-04-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:07:35 2023-07-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:08:38 2023-08-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:09:26 2023-09-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:10:56 2023-10-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:11:01 2023-11-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:11:02 2023-11-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:42:38 2023-42-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:43:42 2023-43-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:48:38 2023-48-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:50:12 2023-50-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:50:34 2023-50-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:50:55 2023-50-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:52:51 2023-52-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 18:53:29 2023-53-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 19:01:04 2023-01-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 19:05:20 2023-05-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 19:16:11 2023-16-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 19:24:09 2023-24-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 19:32:23 2023-32-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 19:37:02 2023-37-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 19:39:00 2023-39-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 19:56:01 2023-56-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:07:08 2023-07-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:07:51 2023-07-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:08:45 2023-08-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:09:30 2023-09-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:10:50 2023-10-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:16:44 2023-16-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:16:55 2023-16-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:16:58 2023-16-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:17:31 2023-17-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:19:34 2023-19-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:21:04 2023-21-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:22:57 2023-22-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:23:17 2023-23-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:23:21 2023-23-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:26:04 2023-26-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:27:13 2023-27-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:28:01 2023-28-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:29:15 2023-29-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:33:14 2023-33-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:34:01 2023-34-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:35:37 2023-35-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:40:12 2023-40-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:46:33 2023-46-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:55:46 2023-55-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 20:59:19 2023-59-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:03:24 2023-03-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:03:59 2023-03-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:04:00 2023-04-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:04:01 2023-04-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:04:01 2023-04-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:04:02 2023-04-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:04:15 2023-04-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:05:42 2023-05-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:06:19 2023-06-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:06:39 2023-06-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:08:16 2023-08-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:12:13 2023-12-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:21:36 2023-21-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:22:50 2023-22-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:23:21 2023-23-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:43:37 2023-43-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:52:31 2023-52-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:54:38 2023-54-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:57:24 2023-57-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:58:12 2023-58-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:59:16 2023-59-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 21:59:45 2023-59-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 22:05:13 2023-05-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 22:11:56 2023-11-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 22:31:18 2023-31-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 22:31:56 2023-31-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 22:34:07 2023-34-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 22:40:33 2023-40-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 22:41:15 2023-41-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 22:52:32 2023-52-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 22:53:49 2023-53-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 22:59:50 2023-59-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 23:06:39 2023-06-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 23:08:59 2023-08-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 23:09:36 2023-09-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 23:10:51 2023-10-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 23:10:56 2023-10-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 23:16:07 2023-16-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 23:21:08 2023-21-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 23:21:43 2023-21-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 23:25:52 2023-25-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 23:28:34 2023-28-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 23:29:55 2023-29-21. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:36:11 2023-36-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:38:34 2023-38-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file test1.bmp at 00:38:46 2023-38-22. 
+response: file test1.bmp downloaded from the server;
+
+user request: file wiki.txt at 00:40:14 2023-40-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:41:10 2023-41-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:41:36 2023-41-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:43:32 2023-43-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:44:57 2023-44-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:46:59 2023-46-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:51:22 2023-51-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:52:24 2023-52-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:54:46 2023-54-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:58:23 2023-58-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:58:49 2023-58-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:58:51 2023-58-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:59:18 2023-59-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 00:59:49 2023-59-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 01:01:28 2023-01-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 01:05:03 2023-05-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 01:19:04 2023-19-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 01:37:05 2023-37-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 01:57:19 2023-57-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:01:54 2023-01-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:04:12 2023-04-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:04:30 2023-04-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:04:54 2023-04-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:11:47 2023-11-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:12:21 2023-12-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:16:30 2023-16-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:17:02 2023-17-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:18:02 2023-18-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:19:19 2023-19-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:56:52 2023-56-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 02:57:51 2023-57-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 03:02:46 2023-02-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 03:07:22 2023-07-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 03:09:29 2023-09-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 03:15:50 2023-15-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 03:19:15 2023-19-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 03:23:53 2023-23-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 03:25:10 2023-25-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 03:26:36 2023-26-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 03:28:30 2023-28-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:43:56 2023-43-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:44:01 2023-44-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:48:56 2023-48-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:49:28 2023-49-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:50:28 2023-50-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:53:14 2023-53-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:54:01 2023-54-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:54:14 2023-54-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:54:32 2023-54-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:55:12 2023-55-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:56:51 2023-56-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:57:51 2023-57-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:58:06 2023-58-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:58:16 2023-58-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:58:25 2023-58-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:59:43 2023-59-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:59:44 2023-59-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 11:59:58 2023-59-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 12:01:00 2023-01-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 12:03:23 2023-03-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 12:10:30 2023-10-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 12:12:36 2023-12-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 12:13:31 2023-13-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 12:15:11 2023-15-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 12:15:42 2023-15-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 13:01:32 2023-01-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 13:01:44 2023-01-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 13:32:14 2023-32-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 13:43:44 2023-43-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki2.txt at 13:43:47 2023-43-22. 
+response: file wiki2.txt downloaded from the server;
+
+user request: file wiki.txt at 13:44:41 2023-44-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki.txt at 13:47:22 2023-47-22. 
+response: file wiki.txt downloaded from the server;
+
+user request: file wiki2.txt at 13:47:38 2023-47-22. 
+response: file wiki2.txt downloaded from the server;
+
+user request: file wiki.txt at 14:02:06 2023-02-22. 
+response:0% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 14:02:16 2023-02-22. 
+response:100% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki2.txt at 14:02:22 2023-02-22. 
+response:97.05882352941177% of file wiki2.txt was constructed with the cached data;
+
+user request: file test1.bmp at 14:03:59 2023-03-22. 
+response:0% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 14:04:03 2023-04-22. 
+response:98.73417721518987% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 14:05:38 2023-05-22. 
+response: 0% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 14:06:16 2023-06-22. 
+response: 94.73684210526315% of file test1.bmp was constructed with the cached data;
+
+user request: file wiki.txt at 14:09:08 2023-09-22. 
+response: 0% of file wiki.txt was constructed with the cached data;
+
+user request: file test1.bmp at 14:10:17 2023-10-22. 
+response: 99.82062780269058% of file test1.bmp was constructed with the cached data;
+
+user request: file wiki.txt at 14:10:25 2023-10-22. 
+response: 100% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki2.txt at 14:10:28 2023-10-22. 
+response: 97.05882352941177% of file wiki2.txt was constructed with the cached data;
+
+user request: file wiki.txt at 02:59:07 2023-59-23. 
+response: 0% of file wiki.txt was constructed with the cached data;
+
+user request: file test1.bmp at 02:59:39 2023-59-23. 
+response: 0% of file test1.bmp was constructed with the cached data;
+
+user request: file wiki.txt at 07:48:56 2023-48-23. 
+response: 100% of file wiki.txt was constructed with the cached data;
+
+user request: file test1.bmp at 07:49:11 2023-49-23. 
+response: 90.9090909090909% of file test1.bmp was constructed with the cached data;
+
+user request: file wiki.txt at 08:00:10 2023-00-23. 
+response: 100% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 10:44:29 2023-44-23. 
+response: 0% of file wiki.txt was constructed with the cached data;
+
+user request: file test1.bmp at 11:12:16 2023-12-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 11:16:48 2023-16-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 11:32:20 2023-32-23. 
+response: NaN% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 11:46:05 2023-46-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file wiki.txt at 11:49:02 2023-49-23. 
+response: 0% of file wiki.txt was constructed with the cached data;
+
+user request: file test1.bmp at 11:49:12 2023-49-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 11:50:50 2023-50-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 11:55:05 2023-55-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 11:59:53 2023-59-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:01:26 2023-01-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:08:20 2023-08-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:09:17 2023-09-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:10:39 2023-10-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:30:26 2023-30-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:35:39 2023-35-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:42:29 2023-42-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:43:32 2023-43-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:45:49 2023-45-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:48:12 2023-48-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:50:50 2023-50-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:58:31 2023-58-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file test1.bmp at 12:59:00 2023-59-23. 
+response: 100% of file test1.bmp was constructed with the cached data;
+
+user request: file wiki.txt at 13:26:36 2023-26-23. 
+response: 0% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 13:32:52 2023-32-23. 
+response: 100% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 13:33:36 2023-33-23. 
+response: 100% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 13:34:55 2023-34-23. 
+response: 100% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 16:57:03 2023-57-23. 
+response: 0% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 16:59:55 2023-59-23. 
+response: 100% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 17:02:02 2023-02-23. 
+response: 100% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 17:04:12 2023-04-23. 
+response: 0% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 17:07:06 2023-07-23. 
+response: 0% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 17:07:22 2023-07-23. 
+response: 100% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 17:18:19 2023-18-23. 
+response: 0% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 17:18:33 2023-18-23. 
+response: 100% of file wiki.txt was constructed with the cached data;
+
+user request: file wiki.txt at 17:26:45 2023-26-23. 
+response: 0% of file wiki.txt was constructed with the cached data;
+
+user request: file test2.bmp at 17:56:19 2023-56-23. 
+response: 100% of file test2.bmp was constructed with the cached data;
+
